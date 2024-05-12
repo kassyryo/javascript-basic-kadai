@@ -1,5 +1,5 @@
 const x=(y)=>{
-    console.log(y*y);
+    return y*y;
 }
 
-x(10);
+console.log(x(10));
